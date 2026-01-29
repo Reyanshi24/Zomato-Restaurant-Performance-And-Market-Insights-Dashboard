@@ -104,12 +104,11 @@ ORDER BY restaurant_count DESC;
 
 ### DASHBOARD
 
-<img width="1013" height="565" alt="image" src="https://github.com/user-attachments/assets/ad49aba9-5004-46e6-9af2-a668c6625d99" />
 
-<img width="1018" height="570" alt="image" src="https://github.com/user-attachments/assets/92bdb60a-3ed0-43cc-8c14-13e345fdfdbc" />
+<img width="1005" height="558" alt="image" src="https://github.com/user-attachments/assets/84ef7c69-eceb-46aa-9281-b4e213a5d6c8" />
 
-<img width="1015" height="570" alt="image" src="https://github.com/user-attachments/assets/70dad4c4-8aeb-4305-afcb-62864f3861b7" />
+<img width="1007" height="564" alt="image" src="https://github.com/user-attachments/assets/7e9e3c8a-b81b-4255-9ec2-bdfc8df9b71c" />
 
-<img width="1015" height="572" alt="image" src="https://github.com/user-attachments/assets/b19adf6e-67c3-48df-8546-f36593d94397" />
+<img width="1007" height="565" alt="image" src="https://github.com/user-attachments/assets/14f2d2cf-e050-44ba-a52c-e6be9c57eaba" />
 
-
+<img width="1012" height="568" alt="image" src="https://github.com/user-attachments/assets/053d8d29-2d4c-4bc2-8e35-1755900b4ceb" />
